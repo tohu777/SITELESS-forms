@@ -2,7 +2,7 @@
 
 https://tohu777.github.io/SITELESS-forms/
 
-Blender/Python recreations of forms from François Blanciak's book SITELESS: 1001 Building Forms (MIT Press, 2008)
+A repository of Python scripts for Blender recreating forms from François Blanciak's book SITELESS: 1001 Building Forms (MIT Press, 2008)
 
 This is a modest attempt to recreate just a selection of forms taken from Blanciak's SITELESS book, using Python in Blender.
 
